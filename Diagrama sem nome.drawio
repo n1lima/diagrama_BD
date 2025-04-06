@@ -1,9 +1,132 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.2.8">
   <diagram name="Página-1" id="fds0GChGML-J_CuACkd_">
-    <mxGraphModel>
+    <mxGraphModel dx="1433" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#000000,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-40" target="Cv_Zanrl3LAXws1K1gwo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-40" target="Cv_Zanrl3LAXws1K1gwo-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-40" target="Cv_Zanrl3LAXws1K1gwo-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-40" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;ESCOLA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-44" target="Cv_Zanrl3LAXws1K1gwo-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-43" target="Cv_Zanrl3LAXws1K1gwo-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-43" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="581.25" y="200" width="37.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-44" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;PESSOA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="555" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-46" target="Cv_Zanrl3LAXws1K1gwo-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-46" target="Cv_Zanrl3LAXws1K1gwo-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-46" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;ALUNO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="360" y="272" width="70" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-47" target="Cv_Zanrl3LAXws1K1gwo-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-47" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;PROFESSOR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="680" y="273" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-48" target="Cv_Zanrl3LAXws1K1gwo-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-48" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;FUNCIONÁRIO&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;ADM.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="272.5" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-43" target="Cv_Zanrl3LAXws1K1gwo-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.578;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-43" target="Cv_Zanrl3LAXws1K1gwo-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-51" target="Cv_Zanrl3LAXws1K1gwo-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-51" target="Cv_Zanrl3LAXws1K1gwo-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-51" target="Cv_Zanrl3LAXws1K1gwo-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-51" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;TURMA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="110" y="273" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-48" target="Cv_Zanrl3LAXws1K1gwo-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-54" target="Cv_Zanrl3LAXws1K1gwo-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-54" target="Cv_Zanrl3LAXws1K1gwo-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-54" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;CURSO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-65" target="Cv_Zanrl3LAXws1K1gwo-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-65" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;HISTÓRICO&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="263.25" width="80" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-71" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;MÓDULO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="70" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-72" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;PERÍODO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="70" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-74" target="Cv_Zanrl3LAXws1K1gwo-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-74" target="Cv_Zanrl3LAXws1K1gwo-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-74" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="136.25" y="340" width="37.5" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-82" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;PAGAR&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="265.75" width="70" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-90" target="Cv_Zanrl3LAXws1K1gwo-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-90" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;BOLSA&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="130" width="80" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-109" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;COORDENADOR&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="370" width="95" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-111" value="1:0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-113" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;AVALIAÇÃO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="245" y="350" width="70" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-115" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;LECIONA&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="147.5" width="70" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-118" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;COORDENA&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="70" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv_Zanrl3LAXws1K1gwo-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.857;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="Cv_Zanrl3LAXws1K1gwo-109" target="Cv_Zanrl3LAXws1K1gwo-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
